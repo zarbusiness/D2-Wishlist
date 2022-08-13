@@ -577,6 +577,8 @@ dimwishlist:item=534775659&perks=,2779035018,11612903
 dimwishlist:item=534775659&perks=,2779035018,2652708987
 dimwishlist:item=534775659&perks=,2450788523,2652708987
 dimwishlist:item=534775659&perks=,1570042021,2652708987
+dimwishlist:item=534775659&perks=,671806388,1427256713
+
 
 // PLUG ONE.1 (Adept) (PvP)
 //notes:PvP-
