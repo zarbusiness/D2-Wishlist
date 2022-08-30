@@ -1,5 +1,9 @@
 title: zarbusiness wishlist
 
+// Cry Mutiny (PvE)
+//notes:PvE-
+dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,4082225868
+
 // Horror's Least (Adept) (PvP)
 //notes:PvP-
 dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954,1015611457
