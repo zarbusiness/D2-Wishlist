@@ -1,5 +1,42 @@
 title: zarbusiness wishlist
 
+// Whistler's Whim (PvP)
+//notes:PvP-
+dimwishlist:item=1574601402&perks=,2450788523,1015611457
+dimwishlist:item=1574601402&perks=,588594999,1015611457
+dimwishlist:item=1574601402&perks=,2946784966,1015611457
+dimwishlist:item=1574601402&perks=,2450788523,2652708987
+dimwishlist:item=1574601402&perks=,588594999,2652708987
+dimwishlist:item=1574601402&perks=,2946784966,2652708987
+
+// Whistler's Whim (PvE)
+//notes:PvE-
+dimwishlist:item=1574601402&perks=,247725512,1015611457
+dimwishlist:item=1574601402&perks=,247725512,201365942
+dimwishlist:item=1574601402&perks=,247725512,11612903
+dimwishlist:item=1574601402&perks=,247725512,4082225868
+dimwishlist:item=1574601402&perks=,247725512,2652708987
+dimwishlist:item=1574601402&perks=,2846385770,1015611457
+dimwishlist:item=1574601402&perks=,2846385770,201365942
+dimwishlist:item=1574601402&perks=,2846385770,11612903
+dimwishlist:item=1574601402&perks=,2846385770,4082225868
+dimwishlist:item=1574601402&perks=,2450788523,201365942
+
+// The Inquisitor (PvE)
+//notes:PvE-
+dimwishlist:item=2185327324&perks=,1354429876,2610012052
+dimwishlist:item=2185327324&perks=,1820235745,2610012052
+dimwishlist:item=2185327324&perks=,3523296417,11612903
+dimwishlist:item=2185327324&perks=,1820235745,4082225868
+dimwishlist:item=2185327324&perks=,1820235745,11612903
+
+// The Inquisitor (PvP)
+//notes:PvP-
+dimwishlist:item=2185327324&perks=,1428297954,47981717
+dimwishlist:item=2185327324&perks=,2946784966,47981717
+dimwishlist:item=2185327324&perks=,2946784966,2451262963
+dimwishlist:item=2185327324&perks=,1428297954,2451262963
+
 // Sailspy Pitchglass (PvE)
 //notes:PvE-
 dimwishlist:item=1184309824&perks=,247725512,2173046394
