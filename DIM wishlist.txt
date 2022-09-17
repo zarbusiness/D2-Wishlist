@@ -180,6 +180,7 @@ dimwishlist:item=3228096719&perks=,1556840489,1771339417
 dimwishlist:item=3228096719&perks=,2621346526,1771339417
 dimwishlist:item=3228096719&perks=,2621346526,2896038713
 dimwishlist:item=3228096719&perks=,3824105627,3523296417
+dimwishlist:item=3228096719&perks=,1556840489,2896038713
 
 // Defiance of Yasmin (PvP)
 //notes:PvP-
