@@ -8,6 +8,7 @@ dimwishlist:item=1574601402&perks=,2946784966,1015611457
 dimwishlist:item=1574601402&perks=,2450788523,2652708987
 dimwishlist:item=1574601402&perks=,588594999,2652708987
 dimwishlist:item=1574601402&perks=,2946784966,2652708987
+dimwishlist:item=1574601402&perks=,588594999,1365187766
 
 // Whistler's Whim (PvE)
 //notes:PvE-
