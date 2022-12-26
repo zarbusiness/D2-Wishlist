@@ -104,9 +104,10 @@ dimwishlist:item=1903182562&perks=,2869569095,1275731761
 // Aurvandil FR6 (PvE)
 //notes:PvE-
 dimwishlist:item=963710795&perks=,1523832109,2978966579
-dimwishlist:item=963710795&perks=,1820235745,3523296417
-dimwishlist:item=963710795&perks=,1820235745,4082225868
 dimwishlist:item=963710795&perks=,1523832109,4082225868
+dimwishlist:item=963710795&perks=,1820235745,3523296417
+dimwishlist:item=963710795&perks=,1820235745,2978966579
+dimwishlist:item=963710795&perks=,1820235745,4082225868
 
 // Glacioclasm (PvE)
 //notes:PvE-
