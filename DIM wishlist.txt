@@ -205,6 +205,10 @@ dimwishlist:item=2814093983&perks=,1583705720,4104185692
 dimwishlist:item=2814093983&perks=,1820235745,3425386926
 dimwishlist:item=2814093983&perks=,3108830275,3425386926
 
+// Cold Front (PvP)
+//notes:PvP-
+dimwishlist:item=2814093983&perks=3250034553,3142289711,1890422124,3751912585
+
 // Prolonged Engagement (PvE)
 //notes:PvE-
 dimwishlist:item=2349907931&perks=,1631667848,4104185692
