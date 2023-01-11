@@ -17,11 +17,9 @@ dimwishlist:item=8293111&perks=1820235745,2848615171
 dimwishlist:item=8293111&perks=1820235745,11612903
 dimwishlist:item=8293111&perks=1820235745,3201496230
 
-
 // Long Arm (pvp)
 //notes: tags:pvp
 dimwishlist:item=8293111&perks=1866048759,3038247973
-
 
 // Terminus Horizon (pve)
 //notes: tags:pve
@@ -31,7 +29,7 @@ dimwishlist:item=487205709&perks=3400784728,365154968
 dimwishlist:item=487205709&perks=3400784728,3751912585
 dimwishlist:item=487205709&perks=247725512,3751912585
 dimwishlist:item=487205709&perks=247725512,11612903
-
+dimwishlist:item=487205709&perks=3523296417,3592538738
 
 // Seventh Seraph Officer Revolver (pve)
 //notes: tags:pve
@@ -40,7 +38,6 @@ dimwishlist:item=1555959830&perks=1523832109,1546637391
 dimwishlist:item=1555959830&perks=1354429876,3201496230
 dimwishlist:item=1555959830&perks=1354429876,1546637391
 dimwishlist:item=1555959830&perks=1354429876,2213355989
-
 
 // Wilderflight (pve)
 //notes: tags:pve
@@ -63,7 +60,6 @@ dimwishlist:item=2306182339&perks=3032599245,3523296417,1556840489
 dimwishlist:item=2306182339&perks=3032599245,3523296417,4104185692
 dimwishlist:item=2306182339&perks=3032599245,3523296417,1546637391
 
-
 // Liminal Vigil (pve)
 //notes: tags:pve
 dimwishlist:item=3138208275&perks=124408337,3047969693
@@ -71,7 +67,6 @@ dimwishlist:item=3138208275&perks=124408337,1015611457
 dimwishlist:item=3138208275&perks=124408337,3708227201
 dimwishlist:item=3138208275&perks=4071163871,3708227201
 dimwishlist:item=3138208275&perks=691659142,4082225868
-
 
 // Liminal Vigil (pvp)
 //notes: tags:pvp
@@ -85,7 +80,6 @@ dimwishlist:item=3138208275&perks=1428297954,1015611457
 dimwishlist:item=3138208275&perks=1428297954,3047969693
 dimwishlist:item=3138208275&perks=2946784966,2846385770
 
-
 // Seventh Seraph Carbine (pve)
 //notes: tags:pve
 dimwishlist:item=4070357005&perks=1523832109,4104185692
@@ -95,7 +89,6 @@ dimwishlist:item=4070357005&perks=1354429876,4104185692
 dimwishlist:item=4070357005&perks=1523832109,365154968
 dimwishlist:item=4070357005&perks=1523832109,4082225868
 dimwishlist:item=4070357005&perks=1359896290,365154968
-
 
 // Wendigo GL3 (Adept) (PvE)
 //notes:PvE-
