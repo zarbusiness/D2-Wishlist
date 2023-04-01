@@ -1,5 +1,22 @@
 title: zarbusiness wishlist
 
+// Exalted Truth (PvE)
+//notes:PvE-
+dimwishlist:item=548809020&perks=,1168162263,776531651
+dimwishlist:item=548809020&perks=,1168162263,4104185692
+dimwishlist:item=548809020&perks=,2846385770,776531651
+
+// Unwavering Duty (PvE)
+//notes:PvE-
+dimwishlist:item=906840740&perks=,1820235745,4293542123
+dimwishlist:item=906840740&perks=,1820235745,557221067
+dimwishlist:item=906840740&perks=,2010801679,4293542123
+dimwishlist:item=906840740&perks=,2869569095,1771339417
+dimwishlist:item=906840740&perks=,2869569095,557221067
+dimwishlist:item=906840740&perks=,2869569095,4293542123
+dimwishlist:item=906840740&perks=,3300816228,1771339417
+dimwishlist:item=906840740&perks=,3300816228,4293542123
+
 // Phyllotactic Spiral (PvE)
 //notes:PvE-
 dimwishlist:item=3635821806&perks=,3619207468,2173046394
