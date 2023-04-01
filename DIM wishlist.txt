@@ -1145,6 +1145,13 @@ dimwishlist:item=2378101424&perks=,3301904089,2039302152,4049631843
 //notes:PvE-
 dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,4082225868
 
+// Pizzicato-22 (PvP)
+//notes:PvP-
+dimwishlist:item=4100775158&perks=,1428297954,4071163871
+dimwishlist:item=4100775158&perks=,1428297954,3523296417
+dimwishlist:item=4100775158&perks=,1428297954,691659142
+dimwishlist:item=4100775158&perks=,699525795,4071163871
+
 // Horror's Least (Adept) (PvE)
 //notes:PvE-
 dimwishlist:item=1924276978&perks=,1428297954,1546637391
