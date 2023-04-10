@@ -1,5 +1,10 @@
 title: zarbusiness wishlist
 
+
+// Imperial Decree (PvP)
+//notes:PvP-
+dimwishlist:item=318443586&perks=4090651448,3142289711,3161816588,47981717
+
 // Exalted Truth (PvE)
 //notes:PvE-
 dimwishlist:item=548809020&perks=,1168162263,776531651
