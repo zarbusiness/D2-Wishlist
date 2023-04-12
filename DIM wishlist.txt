@@ -36,12 +36,12 @@ dimwishlist:item=772231794&perks=,3700496672,3824105627
 // Hung Jury SR4 (Adept) (Seraph) (PvE)
 //notes:PvE-
 dimwishlist:item=4074251943&perks=,1820235745,3824105627
-dimwishlist:item=4074251943&perks=,247725512,3824105627
-dimwishlist:item=4074251943&perks=,3700496672,3824105627
-dimwishlist:item=4074251943&perks=,247725512,3038247973
 dimwishlist:item=4074251943&perks=,1820235745,3038247973
-dimwishlist:item=4074251943&perks=,247725512,4104185692
 dimwishlist:item=4074251943&perks=,1820235745,4104185692
+dimwishlist:item=4074251943&perks=,247725512,3824105627
+dimwishlist:item=4074251943&perks=,247725512,3038247973
+dimwishlist:item=4074251943&perks=,247725512,4104185692
+dimwishlist:item=4074251943&perks=,3700496672,3824105627
 
 // Imperial Decree (PvP)
 //notes:PvP-
