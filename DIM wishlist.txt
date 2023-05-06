@@ -143,7 +143,7 @@ dimwishlist:item=522366885&perks=,968510818,438098033
 //notes:PvE-
 dimwishlist:item=1028124540&perks=,2779035018,2048641572
 dimwishlist:item=1028124540&perks=,2451262963,2048641572
-
+dimwishlist:item=2488587246&perks=,2451262963,776531651
 // Acasia's Dejection (PvE)
 //notes:PvE-
 dimwishlist:item=1471212226&perks=,2869569095,4104185692
