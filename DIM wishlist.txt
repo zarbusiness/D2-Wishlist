@@ -1,6 +1,101 @@
 title: zarbusiness wishlist
 
 
+// Spare Rations (PvE)
+//notes:PvE-
+dimwishlist:item=3236112986&perks=,247725512,1015611457
+dimwishlist:item=3236112986&perks=,1820235745,4082225868
+dimwishlist:item=3236112986&perks=,247725512,4082225868
+dimwishlist:item=3236112986&perks=,1820235745,3891536761
+dimwishlist:item=3236112986&perks=,247725512,3891536761
+dimwishlist:item=3236112986&perks=,247725512,1546637391
+
+// Spare Rations (PvP)
+//notes:PvP-
+dimwishlist:item=3236112986&perks=,3161816588,47981717
+dimwishlist:item=3236112986&perks=,957782887,47981717
+
+// Epochal Integration (PvE)
+//notes:PvE-
+dimwishlist:item=1123421440&perks=1482024992,1885400500,3619207468,4293542123
+
+// Targeted Redaction (PvP)
+//notes:PvP-
+dimwishlist:item=3890055324&perks=,744594675,3324494224
+dimwishlist:item=3890055324&perks=,1168162263,3619207468
+
+// Targeted Redaction (PvE)
+//notes:PvE-
+dimwishlist:item=3890055324&perks=,3400784728,4104185692
+dimwishlist:item=3890055324&perks=,3400784728,3038247973
+dimwishlist:item=3890055324&perks=,3400784728,2896038713
+dimwishlist:item=3890055324&perks=,3400784728,2048641572
+dimwishlist:item=3890055324&perks=,3400784728,3619207468
+dimwishlist:item=3890055324&perks=,1168162263,3619207468
+dimwishlist:item=3890055324&perks=,1168162263,2048641572
+dimwishlist:item=3890055324&perks=,1168162263,3038247973
+dimwishlist:item=3890055324&perks=,1168162263,4104185692
+
+// Combined Action (PvE)
+//notes:PvE-
+dimwishlist:item=1331824604&perks=,2173046394
+dimwishlist:item=1331824604&perks=,1954620775
+
+// Combined Action (PvP)
+//notes:PvP-
+dimwishlist:item=1331824604&perks=,2946784966,1015611457
+
+// Rapacious Appetite (PvE)
+//notes:PvE-
+dimwishlist:item=1081724548&perks=,1354429876,124408337
+dimwishlist:item=1081724548&perks=,1354429876,2896038713
+dimwishlist:item=1081724548&perks=,1354429876,365154968
+dimwishlist:item=1081724548&perks=,1354429876,4104185692
+dimwishlist:item=1081724548&perks=,1428297954,4049631843
+dimwishlist:item=1081724548&perks=,1428297954,124408337
+dimwishlist:item=1081724548&perks=,1428297954,365154968
+dimwishlist:item=1081724548&perks=,1428297954,4104185692
+
+// Bug-Out Bag (PvE)
+//notes:PvE-
+dimwishlist:item=2832639510&perks=,1820235745,4293542123
+dimwishlist:item=2832639510&perks=,4071163871,4293542123
+dimwishlist:item=2832639510&perks=,1365187766,4293542123
+dimwishlist:item=2832639510&perks=,1428297954,4293542123
+dimwishlist:item=2832639510&perks=,1820235745,4082225868
+dimwishlist:item=2832639510&perks=,4071163871,4082225868
+dimwishlist:item=2832639510&perks=,1428297954,4082225868
+
+// Bug-Out Bag (PvP)
+//notes:PvP-
+dimwishlist:item=2832639510&perks=,1428297954,2451262963
+dimwishlist:item=2832639510&perks=,2039302152,2451262963
+dimwishlist:item=2832639510&perks=,4071163871,2451262963
+dimwishlist:item=2832639510&perks=,4071163871,2450788523
+dimwishlist:item=2832639510&perks=,2039302152,2450788523
+dimwishlist:item=2832639510&perks=,1428297954,2450788523
+
+// Until Its Return (PvE)
+//notes:PvE-
+dimwishlist:item=2883484461&perks=,3300816228,2360754333
+dimwishlist:item=2883484461&perks=,4071163871,2360754333
+dimwishlist:item=2883484461&perks=,4071163871,3708227201
+dimwishlist:item=2883484461&perks=,3643424744,11612903
+dimwishlist:item=2883484461&perks=,3300816228,11612903
+dimwishlist:item=2883484461&perks=,3643424744,1546637391
+dimwishlist:item=2883484461&perks=,3300816228,1546637391
+dimwishlist:item=2883484461&perks=,4071163871,1546637391
+
+// Last Man Standing (PvE)
+//notes:PvE-
+dimwishlist:item=4287947559&perks=,691659142,2679249093
+dimwishlist:item=4287947559&perks=,4071163871,2679249093
+dimwishlist:item=4287947559&perks=,1820235745,4082225868
+dimwishlist:item=4287947559&perks=,4071163871,4082225868
+dimwishlist:item=4287947559&perks=,4071163871,3425386926
+dimwishlist:item=4287947559&perks=,1820235745,3425386926
+dimwishlist:item=4287947559&perks=,671806388,2679249093
+
 // Old Sterling (PvP)
 //notes:PvP-
 dimwishlist:item=3678653083&perks=,3978468247,438098033
