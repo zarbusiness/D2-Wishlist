@@ -1,6 +1,83 @@
 title: zarbusiness wishlist
 
 
+// Loaded Question (PvE)
+//notes:PvE-
+dimwishlist:item=3125454907&perks=,3523296417,4104185692
+dimwishlist:item=3125454907&perks=,3643424744,4104185692
+dimwishlist:item=3125454907&perks=,3300816228,4104185692
+dimwishlist:item=3125454907&perks=,3300816228,1427256713
+dimwishlist:item=3125454907&perks=,3643424744,1427256713
+dimwishlist:item=3125454907&perks=,3523296417,1427256713
+dimwishlist:item=3125454907&perks=,3300816228,2594592626
+dimwishlist:item=3125454907&perks=,3643424744,2594592626
+dimwishlist:item=3125454907&perks=,3523296417,2594592626
+
+// Loaded Question (PvP)
+//notes:PvP-
+dimwishlist:item=3125454907&perks=,3523296417,691659142
+dimwishlist:item=3125454907&perks=,1645158859,438098033
+dimwishlist:item=3125454907&perks=,1645158859,699525795
+
+// Loaded Question (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=2914913838&perks=,3300816228,1427256713
+dimwishlist:item=2914913838&perks=,3643424744,1427256713
+dimwishlist:item=2914913838&perks=,3523296417,1427256713
+dimwishlist:item=2914913838&perks=,3300816228,2594592626
+dimwishlist:item=2914913838&perks=,3643424744,2594592626
+dimwishlist:item=2914913838&perks=,3523296417,2594592626
+dimwishlist:item=2914913838&perks=,3300816228,4104185692
+dimwishlist:item=2914913838&perks=,3643424744,4104185692
+dimwishlist:item=2914913838&perks=,3523296417,4104185692
+
+// Loaded Question (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=2914913838&perks=,1645158859,438098033
+dimwishlist:item=2914913838&perks=,1645158859,699525795
+dimwishlist:item=2914913838&perks=,3523296417,691659142
+
+// Pressurized Precision (PvE)
+//notes:PvE-
+dimwishlist:item=1084190509&perks=,3300816228,831391274
+dimwishlist:item=1084190509&perks=,1428297954,831391274
+dimwishlist:item=1084190509&perks=,1428297954,1546637391
+dimwishlist:item=1084190509&perks=,3300816228,1546637391
+
+// Pressurized Precision (PvP)
+//notes:PvP-
+dimwishlist:item=1084190509&perks=,1428297954,2213355989
+dimwishlist:item=1084190509&perks=,588594999,2213355989
+dimwishlist:item=1084190509&perks=,280464955,2213355989
+dimwishlist:item=1084190509&perks=,280464955,2846385770
+dimwishlist:item=1084190509&perks=,588594999,2846385770
+dimwishlist:item=1084190509&perks=,1428297954,2846385770
+
+// A Distant Pull (PvE)
+//notes:PvE-
+dimwishlist:item=1769847435&perks=,3619207468,124408337
+dimwishlist:item=1769847435&perks=,3643424744,124408337
+dimwishlist:item=1769847435&perks=,2010801679,124408337
+dimwishlist:item=1769847435&perks=,3400784728,2896038713
+dimwishlist:item=1769847435&perks=,3643424744,2896038713
+
+// A Distant Pull (PvP)
+//notes:PvP-
+dimwishlist:item=1769847435&perks=,588594999,3978468247
+dimwishlist:item=1769847435&perks=,588594999,47981717
+
+// Last Foray (PvE)
+//notes:PvE-
+dimwishlist:item=1106635211&perks=,2869569095,4104185692
+dimwishlist:item=1106635211&perks=,1556840489,4104185692
+dimwishlist:item=1106635211&perks=,2869569095,2896038713
+
+// Mercurial Overreach (PvP)
+//notes:PvP-
+dimwishlist:item=2073794990&perks=,957782887,47981717
+dimwishlist:item=2073794990&perks=,280464955,47981717
+dimwishlist:item=2073794990&perks=,957782887,588594999
+
 // Spare Rations (PvE)
 //notes:PvE-
 dimwishlist:item=3236112986&perks=,247725512,1015611457
