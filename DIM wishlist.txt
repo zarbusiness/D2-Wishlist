@@ -381,6 +381,7 @@ dimwishlist:item=1084190509&perks=,3300816228,831391274
 dimwishlist:item=1084190509&perks=,1428297954,831391274
 dimwishlist:item=1084190509&perks=,1428297954,1546637391
 dimwishlist:item=1084190509&perks=,3300816228,1546637391
+dimwishlist:item=1084190509&perks=,3300816228,2213355989
 
 // Pressurized Precision (PvP)
 //notes:PvP-
