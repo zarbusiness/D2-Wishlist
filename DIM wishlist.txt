@@ -1,6 +1,11 @@
 title: zarbusiness wishlist
 
 
+// Crowning Duologue (PvE)
+//notes:PvE-
+dimwishlist:item=3256453690&perks=,3300816228,2396489472
+dimwishlist:item=3256453690&perks=,3300816228,831391274
+
 // New Pacific Epitaph (PvE)
 //notes:PvE-
 dimwishlist:item=1125217994&perks=,3523296417,11612903
