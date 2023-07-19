@@ -6,6 +6,26 @@ title: zarbusiness wishlist
 dimwishlist:item=3256453690&perks=,3300816228,2396489472
 dimwishlist:item=3256453690&perks=,3300816228,831391274
 
+// Something New (PvE)
+//notes:PvE-
+dimwishlist:item=3240434620&perks=,247725512,124408337
+dimwishlist:item=3240434620&perks=,247725512,1015611457
+dimwishlist:item=3240434620&perks=,247725512,4104185692
+dimwishlist:item=3240434620&perks=,247725512,2610012052
+dimwishlist:item=3240434620&perks=,1820235745,2610012052
+dimwishlist:item=3240434620&perks=,1820235745,4104185692
+dimwishlist:item=3240434620&perks=,1820235745,124408337
+dimwishlist:item=3240434620&perks=,3400784728,4104185692
+dimwishlist:item=3240434620&perks=,2779035018,124408337
+dimwishlist:item=3240434620&perks=,2779035018,1015611457
+dimwishlist:item=3240434620&perks=,2779035018,4104185692
+dimwishlist:item=3240434620&perks=,2779035018,2610012052
+
+// Something New (PvP)
+//notes:PvP-
+dimwishlist:item=3240434620&perks=,3978468247,438098033
+dimwishlist:item=3240434620&perks=3250034553,1885400500,247725512,1015611457
+
 // New Pacific Epitaph (PvE)
 //notes:PvE-
 dimwishlist:item=1125217994&perks=,3523296417,11612903
