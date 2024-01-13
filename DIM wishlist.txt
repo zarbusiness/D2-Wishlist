@@ -1,5 +1,11 @@
 title: zarbusiness wishlist
 
+// Nox Perennial V (PvE)
+//notes:PvE-
+dimwishlist:item=2767393525&perks=968510818,2594592626
+dimwishlist:item=2767393525&perks=4071163871,2594592626
+dimwishlist:item=2767393525&perks=1556840489,2594592626
+
 // Vouchsafe (PvE)
 //notes:PvE-
 dimwishlist:item=355922321&perks=776531651,2048641572
