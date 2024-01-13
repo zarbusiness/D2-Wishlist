@@ -1,5 +1,260 @@
 title: zarbusiness wishlist
 
+// Vouchsafe (PvE)
+//notes: tags:PvE
+dimwishlist:item=355922321&perks=776531651,2048641572
+dimwishlist:item=355922321&perks=776531651,2610012052
+
+
+// Vouchsafe (PvE)
+//notes: tags:PvE
+dimwishlist:item=355922321&perks=247725512,3038247973
+dimwishlist:item=355922321&perks=247725512,2848615171
+dimwishlist:item=355922321&perks=1354429876,3038247973
+dimwishlist:item=355922321&perks=1354429876,2848615171
+
+
+// Psi Hermetic V (PvE)
+//notes: tags:PvE
+dimwishlist:item=358788212&perks=1168162263,124408337
+
+
+// Psi Hermetic V (PvP)
+//notes: tags:PvP
+dimwishlist:item=358788212&perks=3511092054,1015611457
+dimwishlist:item=358788212&perks=3511092054,460017080
+dimwishlist:item=358788212&perks=3511092054,1428297954
+dimwishlist:item=358788212&perks=588594999,1015611457
+dimwishlist:item=358788212&perks=588594999,460017080
+dimwishlist:item=358788212&perks=588594999,1428297954
+
+
+// Pre Astyanax IV (Adept) (PvE)
+//notes: tags:PvE
+dimwishlist:item=496556698&perks=201365942,555281244
+dimwishlist:item=496556698&perks=201365942,4293542123
+dimwishlist:item=496556698&perks=201365942,3365897133
+
+
+// Vengeful Whisper (PvE)
+//notes: tags:PvE
+dimwishlist:item=839344841&perks=201365942,555281244
+dimwishlist:item=839344841&perks=201365942,831391274
+dimwishlist:item=839344841&perks=923806249,555281244
+dimwishlist:item=839344841&perks=923806249,831391274
+
+
+// Retold Tale (PvE)
+//notes: tags:PvE
+dimwishlist:item=871900124&perks=776531651,2048641572
+
+
+// Point of the Stag (PvE)
+//notes: tags:PvE
+dimwishlist:item=888872889&perks=201365942,555281244
+dimwishlist:item=888872889&perks=201365942,2610012052
+dimwishlist:item=888872889&perks=201365942,2848615171
+
+
+// Crux Termination IV (PvE)
+//notes: tags:PvE
+dimwishlist:item=1719687748&perks=2284787283,3708227201
+dimwishlist:item=1719687748&perks=2284787283,1439600632
+dimwishlist:item=1719687748&perks=2284787283,3194351027
+dimwishlist:item=1719687748&perks=1523832109,3708227201
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=1523832109,3194351027
+dimwishlist:item=1719687748&perks=968510818,3708227201
+dimwishlist:item=1719687748&perks=968510818,1439600632
+dimwishlist:item=1719687748&perks=968510818,3194351027
+
+
+// Twilight Oath (PvP)
+//notes: tags:PvP
+dimwishlist:item=1874424704&perks=47981717,957782887
+
+
+// Twilight Oath (PvE)
+//notes: tags:PvE
+dimwishlist:item=1874424704&perks=968510818,555281244
+dimwishlist:item=1874424704&perks=968510818,1546637391
+
+
+// Uzume RR4 (Adept) (PvE)
+//notes: tags:PvE
+dimwishlist:item=1891996599&perks=1354429876,555281244
+
+
+// Breakneck ()
+dimwishlist:item=2026755633&perks=1820235745,95528736
+dimwishlist:item=2026755633&perks=2779035018,95528736
+dimwishlist:item=2026755633&perks=3828510309,95528736
+
+
+// Breakneck ()
+dimwishlist:item=2026755633&perks=3619207468,3891536761
+dimwishlist:item=2026755633&perks=3700496672,3891536761
+dimwishlist:item=2026755633&perks=3828510309,3891536761
+
+
+// Lethal Abundance (PvP)
+//notes: tags:PvP
+dimwishlist:item=2189073092&perks=1359896290,365154968
+dimwishlist:item=2189073092&perks=1359896290,95528736
+dimwishlist:item=2189073092&perks=1359896290,1890422124
+dimwishlist:item=2189073092&perks=3511092054,365154968
+dimwishlist:item=2189073092&perks=3511092054,95528736
+dimwishlist:item=2189073092&perks=3511092054,1890422124
+
+
+// Lethal Abundance (PvE)
+//notes: tags:PvE
+dimwishlist:item=2189073092&perks=3828510309,831391274
+dimwishlist:item=2189073092&perks=3828510309,95528736
+dimwishlist:item=2189073092&perks=3619207468,831391274
+dimwishlist:item=2189073092&perks=3619207468,95528736
+dimwishlist:item=2189073092&perks=923806249,831391274
+dimwishlist:item=2189073092&perks=923806249,95528736
+
+
+// Tigerspite (PvE)
+//notes: tags:PvE
+dimwishlist:item=2465372924&perks=3643424744,3891536761
+dimwishlist:item=2465372924&perks=3643424744,4104185692
+dimwishlist:item=2465372924&perks=1820235745,3891536761
+dimwishlist:item=2465372924&perks=1820235745,4104185692
+
+
+// Glacioclasm (PvP)
+//notes: tags:PvP
+dimwishlist:item=2728851518&perks=2450788523,2652708987
+dimwishlist:item=2728851518&perks=2450788523,2213355989
+dimwishlist:item=2728851518&perks=1570042021,2652708987
+dimwishlist:item=2728851518&perks=1570042021,2213355989
+dimwishlist:item=2728851518&perks=1645158859,2652708987
+dimwishlist:item=2728851518&perks=1645158859,2213355989
+
+
+// Glacioclasm (PvE)
+//notes: tags:PvE
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+dimwishlist:item=2728851518&perks=3643424744,1427256713
+dimwishlist:item=2728851518&perks=1820235745,2594592626
+dimwishlist:item=2728851518&perks=1820235745,1427256713
+
+
+// Naeem's Lance (PvE)
+//notes: tags:PvE
+dimwishlist:item=2806569825&perks=1523832109,555281244
+
+
+// Indebted Kindness (PvE)
+//notes: tags:PvE
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+dimwishlist:item=3381450498&perks=951095735,2173046394
+dimwishlist:item=3381450498&perks=3828510309,2173046394
+
+
+// Indebted Kindness (PvE)
+//notes: tags:PvE
+dimwishlist:item=3381450498&perks=2859149211,3708227201
+dimwishlist:item=3381450498&perks=951095735,3708227201
+dimwishlist:item=3381450498&perks=3828510309,3708227201
+dimwishlist:item=3381450498&perks=1556840489,3708227201
+
+
+// Ros Arago IV (PvE)
+//notes: tags:PvE
+dimwishlist:item=3583275737&perks=2428997981,95528736
+dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=3418782618,95528736
+
+
+// Ros Arago IV (PvE)
+//notes: tags:PvE
+dimwishlist:item=3583275737&perks=2428997981,2610012052
+dimwishlist:item=3583275737&perks=776531651,2610012052
+dimwishlist:item=3583275737&perks=1820235745,2610012052
+dimwishlist:item=3583275737&perks=3418782618,2610012052
+
+
+// Ros Arago IV (PvE)
+//notes: tags:PvE
+dimwishlist:item=3583275737&perks=776531651,3708227201
+dimwishlist:item=3583275737&perks=1820235745,3708227201
+dimwishlist:item=3583275737&perks=3418782618,3708227201
+
+
+// Dragoncult Sickle (PvE)
+//notes: tags:PvE
+dimwishlist:item=3668817296&perks=3523296417,2396489472
+dimwishlist:item=3668817296&perks=3108830275,2396489472
+dimwishlist:item=3668817296&perks=2590710093,2396489472
+dimwishlist:item=3668817296&perks=354401740,2396489472
+
+
+// Dragoncult Sickle (PvE)
+//notes: tags:PvE
+dimwishlist:item=3668817296&perks=923806249,3913600130
+dimwishlist:item=3668817296&perks=923806249,3708227201
+dimwishlist:item=3668817296&perks=354401740,3913600130
+dimwishlist:item=3668817296&perks=354401740,3708227201
+
+
+// Waking Vigil (PvE)
+//notes: tags:PvE
+dimwishlist:item=3723679465&perks=247725512,2173046394
+dimwishlist:item=3723679465&perks=247725512,2848615171
+dimwishlist:item=3723679465&perks=1168162263,2173046394
+dimwishlist:item=3723679465&perks=1168162263,2848615171
+
+
+// Waking Vigil (PvP)
+//notes: tags:PvP
+dimwishlist:item=3723679465&perks=2846385770,1015611457
+dimwishlist:item=3723679465&perks=1428297954,1015611457
+dimwishlist:item=3723679465&perks=247725512,1015611457
+
+
+// Heliocentric QSc (PvE)
+//notes: tags:PvE
+dimwishlist:item=3998080529&perks=3523296417,11612903
+
+
+// Heliocentric QSc (PvE)
+//notes: tags:PvE
+dimwishlist:item=3998080529&perks=3017780555,3708227201
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+dimwishlist:item=3998080529&perks=3523296417,3708227201
+dimwishlist:item=3998080529&perks=3523296417,4293542123
+
+
+// Marcato-45 (PvE)
+//notes: tags:PvE
+dimwishlist:item=4233375372&perks=3400784728,95528736
+dimwishlist:item=4233375372&perks=3523296417,95528736
+
+
+// Marcato-45 (PvE)
+//notes: tags:PvE
+dimwishlist:item=4233375372&perks=3523296417,831391274
+dimwishlist:item=4233375372&perks=4071163871,831391274
+dimwishlist:item=4233375372&perks=923806249,831391274
+
+
+// Marcato-45 (PvE)
+//notes: tags:PvE
+dimwishlist:item=4233375372&perks=4071163871,3708227201
+dimwishlist:item=4233375372&perks=3523296417,3708227201
+dimwishlist:item=4233375372&perks=923806249,3708227201
+dimwishlist:item=4233375372&perks=3400784728,3708227201
+
+
+// Marcato-45 (PvE)
+//notes: tags:PvE
+dimwishlist:item=4233375372&perks=3523296417,2610012052
+
 
 // Crowning Duologue (PvE)
 //notes:PvE-
