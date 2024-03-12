@@ -1,5 +1,47 @@
 title: zarbusiness wishlist
 
+// The Title (PvE)
+//notes: tags:PvE
+dimwishlist:item=655712834&perks=776531651,2048641572
+
+
+// The Title (PvE)
+//notes: Gyrfalcon's tags:PvE
+dimwishlist:item=655712834&perks=776531651,3708227201
+dimwishlist:item=655712834&perks=776531651,3324494224
+
+
+// Hullabaloo (PvE)
+//notes: tags:PvE
+dimwishlist:item=657927352&perks=968510818,3751912585
+dimwishlist:item=657927352&perks=3300816228,3751912585
+
+
+// Hullabaloo (PvE)
+//notes: tags:PvE
+dimwishlist:item=657927352&perks=968510818,2396489472
+dimwishlist:item=657927352&perks=3300816228,2396489472
+dimwishlist:item=657927352&perks=3828510309,2396489472
+
+
+// Taraxippos (PvE)
+//notes: tags:PvE
+dimwishlist:item=3007479950&perks=3619207468,831391274
+dimwishlist:item=3007479950&perks=3828510309,831391274
+
+
+// Taraxippos (PvE)
+//notes: tags:PvE
+dimwishlist:item=3007479950&perks=3828510309,555281244
+dimwishlist:item=3007479950&perks=1354429876,555281244
+dimwishlist:item=3007479950&perks=3619207468,555281244
+
+
+// Taraxippos (PvP)
+//notes: tags:PvP
+dimwishlist:item=3007479950&perks=839105230,3142289711,699525795,3751912585
+
+
 // Darkest Before (PvE)
 //notes: tags:PvE
 dimwishlist:item=435821040&perks=3017780555,4293542123
