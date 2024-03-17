@@ -1,5 +1,10 @@
 title: zarbusiness wishlist
 
+// Prosecutor (pvp)
+//notes:PvP-
+dimwishlist:item=3483591058&perks=2387244414,365154968
+dimwishlist:item=3483591058&perks=3619207468,365154968
+
 // The Summoner (pvp)
 //notes:PvP-
 dimwishlist:item=1820994983&perks=2387244414,365154968
