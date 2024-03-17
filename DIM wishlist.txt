@@ -1,5 +1,11 @@
 title: zarbusiness wishlist
 
+// The Summoner (pvp)
+//notes:PvP-
+dimwishlist:item=1820994983&perks=2387244414,365154968
+dimwishlist:item=1820994983&perks=1359896290,365154968
+dimwishlist:item=1820994983&perks=1428297954,365154968
+
 // Supercluster (pve)
 //notes:PvE-
 dimwishlist:item=92459755&perks=1523832109,1546637391
