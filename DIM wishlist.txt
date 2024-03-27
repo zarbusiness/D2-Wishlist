@@ -1,6 +1,18 @@
 title: zarbusiness wishlist
 
-// Prosecutor (pvp)
+// Avalanche (PvE)
+//notes: tags:PvE
+dimwishlist:item=4220529694&perks=3418782618,365154968
+
+
+// Avalanche (PvE)
+//notes: tags:PvE
+dimwishlist:item=4220529694&perks=1820235745,4293542123
+
+
+// Avalanche (PvE)
+//notes: tags:PvE
+dimwishlist:item=4220529694&perks=1583705720,4049631843// Prosecutor (pvp)
 //notes:PvP-
 dimwishlist:item=3483591058&perks=2387244414,365154968
 dimwishlist:item=3483591058&perks=3619207468,365154968
