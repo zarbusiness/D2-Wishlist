@@ -1,18 +1,12 @@
 title: zarbusiness wishlist
 
 // Avalanche (PvE)
-//notes: tags:PvE
+//notes:PvE-
+dimwishlist:item=4220529694&perks=1583705720,4049631843
+dimwishlist:item=4220529694&perks=1820235745,4293542123
 dimwishlist:item=4220529694&perks=3418782618,365154968
 
-
-// Avalanche (PvE)
-//notes: tags:PvE
-dimwishlist:item=4220529694&perks=1820235745,4293542123
-
-
-// Avalanche (PvE)
-//notes: tags:PvE
-dimwishlist:item=4220529694&perks=1583705720,4049631843// Prosecutor (pvp)
+// Prosecutor (pvp)
 //notes:PvP-
 dimwishlist:item=3483591058&perks=2387244414,365154968
 dimwishlist:item=3483591058&perks=3619207468,365154968
@@ -52,10 +46,6 @@ dimwishlist:item=1968410628&perks=1866048759,2416023159
 dimwishlist:item=1968410628&perks=1168162263,124408337
 dimwishlist:item=1968410628&perks=247725512,124408337
 dimwishlist:item=1968410628&perks=3828510309,124408337
-
-
-// The Prophet (pve)
-//notes:PvE-
 dimwishlist:item=1968410628&perks=247725512,555281244
 dimwishlist:item=1968410628&perks=247725512,1015611457
 dimwishlist:item=1968410628&perks=3828510309,555281244
@@ -69,7 +59,8 @@ dimwishlist:item=1968410628&perks=3619207468,1015611457
 dimwishlist:item=1973107014&perks=3017780555,4293542123
 dimwishlist:item=1973107014&perks=247725512,4293542123
 dimwishlist:item=1973107014&perks=3619207468,4293542123
-
+dimwishlist:item=1973107014&perks=247725512,555281244
+dimwishlist:item=1973107014&perks=3619207468,555281244
 
 // Igneous Hammer (pvp)
 //notes:PvP-
@@ -85,12 +76,6 @@ dimwishlist:item=1973107014&perks=3017780555,47981717
 dimwishlist:item=1973107014&perks=2846385770,699525795
 dimwishlist:item=1973107014&perks=2846385770,588594999
 dimwishlist:item=1973107014&perks=2846385770,47981717
-
-
-// Igneous Hammer (pve)
-//notes:PvE-
-dimwishlist:item=1973107014&perks=247725512,555281244
-dimwishlist:item=1973107014&perks=3619207468,555281244
 
 
 // Unending Tempest (pvp)
@@ -113,10 +98,6 @@ dimwishlist:item=2510526114&perks=3828510309,4104185692
 dimwishlist:item=2510526114&perks=3523296417,124408337
 dimwishlist:item=2510526114&perks=3523296417,3708227201
 dimwishlist:item=2510526114&perks=3523296417,4104185692
-
-
-// Unending Tempest (pve)
-//notes:PvE-
 dimwishlist:item=2510526114&perks=3523296417,11612903
 
 
@@ -165,10 +146,6 @@ dimwishlist:item=4005780578&perks=951095735,1782407750
 dimwishlist:item=4005780578&perks=951095735,3708227201
 dimwishlist:item=4005780578&perks=2779035018,1782407750
 dimwishlist:item=4005780578&perks=2779035018,3708227201
-
-
-// Unexpected Resurgence (pve)
-//notes:PvE-
 dimwishlist:item=4005780578&perks=951095735,2173046394
 dimwishlist:item=4005780578&perks=2779035018,2173046394
 
@@ -177,10 +154,6 @@ dimwishlist:item=4005780578&perks=2779035018,2173046394
 //notes:PvE-
 dimwishlist:item=4153087276&perks=3643424744,557221067
 dimwishlist:item=4153087276&perks=3643424744,4049631843
-
-
-// Appetence (pve)
-//notes:PvE-
 dimwishlist:item=4153087276&perks=3643424744,124408337
 dimwishlist:item=4153087276&perks=3828510309,124408337
 
@@ -219,10 +192,6 @@ dimwishlist:item=657927352&perks=3828510309,2396489472
 //notes:PvE-
 dimwishlist:item=3007479950&perks=3619207468,831391274
 dimwishlist:item=3007479950&perks=3828510309,831391274
-
-
-// Taraxippos (PvE)
-//notes:PvE-
 dimwishlist:item=3007479950&perks=3828510309,555281244
 dimwishlist:item=3007479950&perks=1354429876,555281244
 dimwishlist:item=3007479950&perks=3619207468,555281244
@@ -266,10 +235,6 @@ dimwishlist:item=959037361&perks=3108830275,3708227201
 //notes:PvE-
 dimwishlist:item=1013434963&perks=2779035018,95528736
 dimwishlist:item=1013434963&perks=1820235745,95528736
-
-
-// Adjudicator (PvE)
-//notes:PvE-
 dimwishlist:item=1013434963&perks=4071163871,3891536761
 dimwishlist:item=1013434963&perks=2779035018,3891536761
 dimwishlist:item=1013434963&perks=1820235745,3891536761
@@ -293,26 +258,16 @@ dimwishlist:item=1218113510&perks=968510818,2396489472
 dimwishlist:item=1218113510&perks=968510818,3078487919
 dimwishlist:item=1218113510&perks=968510818,831391274
 dimwishlist:item=1218113510&perks=968510818,1546637391
-
-
-// Tusk of the Boar (PvE)
-//notes:PvE-
+dimwishlist:item=1218113510&perks=923806249,3993379141
+dimwishlist:item=1218113510&perks=968510818,3993379141
 dimwishlist:item=1218113510&perks=2039302152,2396489472
 dimwishlist:item=1218113510&perks=2039302152,1546637391
 dimwishlist:item=1218113510&perks=2039302152,831391274
-dimwishlist:item=1218113510&perks=3828510309,2396489472
-dimwishlist:item=1218113510&perks=3828510309,1546637391
-dimwishlist:item=1218113510&perks=3828510309,831391274
-
 
 // The Slammer (Adept) (PvE)
 //notes:PvE-
 dimwishlist:item=1354727549&perks=2077819806,3078487919
 dimwishlist:item=1354727549&perks=1749209109,3078487919
-
-
-// The Slammer (Adept) (PvE)
-//notes:PvE-
 dimwishlist:item=1354727549&perks=1749209109,3650930298
 dimwishlist:item=1354727549&perks=1749209109,4049631843
 dimwishlist:item=1354727549&perks=2396489472,3650930298
@@ -322,10 +277,6 @@ dimwishlist:item=1354727549&perks=2396489472,4049631843
 // The Summoner (PvE)
 //notes:PvE-
 dimwishlist:item=1820994983&perks=1820235745,95528736
-
-
-// The Summoner (PvE)
-//notes:PvE-
 dimwishlist:item=1820994983&perks=3017780555,4293542123
 dimwishlist:item=1820994983&perks=3017780555,2610012052
 dimwishlist:item=1820994983&perks=1820235745,4293542123
