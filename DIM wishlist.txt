@@ -1,34 +1,141 @@
 title: zarbusiness wishlist
 
+// Forbearance (God-PvE)
+//notes:God-PvE
+dimwishlist:item=568611921&perks=3525010810,2010801679,2396489472
+
+
+// Forbearance (PvE)
+//notes:PvE-
+dimwishlist:item=568611921&perks=3108830275,2396489472
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+
+// The Mountaintop (PvE)
+//notes:PvE-
+dimwishlist:item=568611922&perks=3301904089,3643424744,469285294
+
+
+// Edge Transit (PvE)
+//notes:PvE-
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,2869569095,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+
+
+// The Recluse (God-PvE)
+//notes:God-PvE
+dimwishlist:item=1050806815&perks=4090651448,1885400500,776531651,4104185692
+
+
+// The Recluse (PvE)
+//notes:PvE-
+dimwishlist:item=1050806815&perks=776531651,4104185692
+dimwishlist:item=1050806815&perks=3828510309,3081867624
+dimwishlist:item=1050806815&perks=3828510309,2109543898
+dimwishlist:item=1050806815&perks=776531651,2048641572
+
+
+// Hung Jury SR4 (PvE)
+//notes:PvE-
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,555281244
+dimwishlist:item=1453235079&perks=3891536761,2109543898
+dimwishlist:item=1453235079&perks=3418782618,3824105627
+dimwishlist:item=1453235079&perks=3418782618,555281244
+dimwishlist:item=1453235079&perks=3418782618,2109543898
+dimwishlist:item=1453235079&perks=247725512,3824105627
+dimwishlist:item=1453235079&perks=247725512,555281244
+dimwishlist:item=1453235079&perks=247725512,2109543898
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
+// Falling Guillotine (PvE)
+//notes:PvE-
+dimwishlist:item=1815105249&perks=2827049491,4104185692,3913600130
+dimwishlist:item=1815105249&perks=2827049491,4104185692,3708227201
+dimwishlist:item=1815105249&perks=2827049491,4104185692,3078487919
+dimwishlist:item=1815105249&perks=2827049491,1546637391,3913600130
+dimwishlist:item=1815105249&perks=2827049491,1546637391,3708227201
+dimwishlist:item=1815105249&perks=2827049491,1546637391,3078487919
+dimwishlist:item=1815105249&perks=3666208348,4104185692,3913600130
+dimwishlist:item=1815105249&perks=3666208348,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,4104185692,3078487919
+dimwishlist:item=1815105249&perks=3666208348,1546637391,3913600130
+dimwishlist:item=1815105249&perks=3666208348,1546637391,3708227201
+dimwishlist:item=1815105249&perks=3666208348,1546637391,3078487919
+
+
+// Hammerhead (PvE)
+//notes:PvE-
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3425386926,95528736
+
+// Blast Furnace (PvE)
+//notes:PvE-
+dimwishlist:item=2372514508&perks=3700496672,3824105627
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+
+// Elsie's Rifle (PvE)
+//notes:PvE-
+dimwishlist:item=2372514509&perks=776531651,2048641572
+dimwishlist:item=2372514509&perks=3418782618,11612903
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+dimwishlist:item=2372514509&perks=3418782618,3047969693
+dimwishlist:item=2372514509&perks=3418782618,2109543898
+
+// Midnight Coup (PvE)
+//notes:PvE-
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+dimwishlist:item=2763843898&perks=3700496672,3891536761
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+
+// Luna's Howl (PvE)
+//notes:PvE-
+dimwishlist:item=2763843899&perks=3017780555,2109543898
+
+// Luna's Howl (PvP)
+//notes:PvP-
+dimwishlist:item=2763843899&perks=4090651448,1885400500,699525795,2720533289
+
+// Succession (PvE)
+//notes:PvE-
+dimwishlist:item=3612338554&perks=1523832109,1771339417
+dimwishlist:item=3612338554&perks=1523832109,469285294
+dimwishlist:item=3612338554&perks=1523832109,2896038713
+
 // Avalanche (PvE)
 //notes:PvE-
 dimwishlist:item=4220529694&perks=1583705720,4049631843
 dimwishlist:item=4220529694&perks=1820235745,4293542123
 dimwishlist:item=4220529694&perks=3418782618,365154968
 
-// Prosecutor (pvp)
+// Prosecutor (PvP)
 //notes:PvP-
 dimwishlist:item=3483591058&perks=2387244414,365154968
 dimwishlist:item=3483591058&perks=3619207468,365154968
 
-// The Summoner (pvp)
+// The Summoner (PvP)
 //notes:PvP-
 dimwishlist:item=1820994983&perks=2387244414,365154968
 dimwishlist:item=1820994983&perks=1359896290,365154968
 dimwishlist:item=1820994983&perks=1428297954,365154968
 
-// Supercluster (pve)
+// Supercluster (PvE)
 //notes:PvE-
 dimwishlist:item=92459755&perks=1523832109,1546637391
 dimwishlist:item=92459755&perks=1523832109,3708227201
 
 
-// Eye of Sol (pvp)
+// Eye of Sol (PvP)
 //notes:PvP-
 dimwishlist:item=1401300690&perks=588594999,47981717
 
 
-// Doomed Petitioner (pve)
+// Doomed Petitioner (PvE)
 //notes:PvE-
 dimwishlist:item=1501688142&perks=1523832109,555281244
 dimwishlist:item=1501688142&perks=1523832109,3708227201
@@ -36,12 +143,12 @@ dimwishlist:item=1501688142&perks=968510818,555281244
 dimwishlist:item=1501688142&perks=968510818,3708227201
 
 
-// The Prophet (pvp)
+// The Prophet (PvP)
 //notes:PvP-
 dimwishlist:item=1968410628&perks=1866048759,2416023159
 
 
-// The Prophet (pve)
+// The Prophet (PvE)
 //notes:PvE-
 dimwishlist:item=1968410628&perks=1168162263,124408337
 dimwishlist:item=1968410628&perks=247725512,124408337
@@ -54,7 +161,7 @@ dimwishlist:item=1968410628&perks=3619207468,555281244
 dimwishlist:item=1968410628&perks=3619207468,1015611457
 
 
-// Igneous Hammer (pve)
+// Igneous Hammer (PvE)
 //notes:PvE-
 dimwishlist:item=1973107014&perks=3017780555,4293542123
 dimwishlist:item=1973107014&perks=247725512,4293542123
@@ -62,7 +169,7 @@ dimwishlist:item=1973107014&perks=3619207468,4293542123
 dimwishlist:item=1973107014&perks=247725512,555281244
 dimwishlist:item=1973107014&perks=3619207468,555281244
 
-// Igneous Hammer (pvp)
+// Igneous Hammer (PvP)
 //notes:PvP-
 dimwishlist:item=1973107014&perks=247725512,699525795
 dimwishlist:item=1973107014&perks=247725512,588594999
@@ -78,7 +185,7 @@ dimwishlist:item=1973107014&perks=2846385770,588594999
 dimwishlist:item=1973107014&perks=2846385770,47981717
 
 
-// Unending Tempest (pvp)
+// Unending Tempest (PvP)
 //notes:PvP-
 dimwishlist:item=2510526114&perks=1359896290,365154968
 dimwishlist:item=2510526114&perks=1359896290,1890422124
@@ -90,7 +197,7 @@ dimwishlist:item=2510526114&perks=1428297954,365154968
 dimwishlist:item=2510526114&perks=1428297954,1890422124
 
 
-// Unending Tempest (pve)
+// Unending Tempest (PvE)
 //notes:PvE-
 dimwishlist:item=2510526114&perks=3828510309,124408337
 dimwishlist:item=2510526114&perks=3828510309,3708227201
@@ -101,13 +208,13 @@ dimwishlist:item=2510526114&perks=3523296417,4104185692
 dimwishlist:item=2510526114&perks=3523296417,11612903
 
 
-// Scatter Signal (pve)
+// Scatter Signal (PvE)
 //notes:PvE-
 dimwishlist:item=2558925366&perks=923806249,2594592626
 dimwishlist:item=2558925366&perks=3643424744,2594592626
 
 
-// Cataphract GL3 (pve)
+// Cataphract GL3 (PvE)
 //notes:PvE-
 dimwishlist:item=2738601016&perks=968510818,3751912585
 dimwishlist:item=2738601016&perks=968510818,3078487919
@@ -117,13 +224,13 @@ dimwishlist:item=2738601016&perks=3300816228,3078487919
 dimwishlist:item=2738601016&perks=3300816228,3194351027
 
 
-// Cataphract GL3 (pvp)
+// Cataphract GL3 (PvP)
 //notes:PvP-
 dimwishlist:item=2738601016&perks=409831596,951095735,2396489472
 dimwishlist:item=2738601016&perks=409831596,3523296417,2396489472
 
 
-// Taraxippos (pvp)
+// Taraxippos (PvP)
 //notes:PvP-
 dimwishlist:item=3007479950&perks=3661387068,3142289711,699525795,3751912585
 dimwishlist:item=3007479950&perks=4090651448,3142289711,699525795,3751912585
@@ -131,12 +238,12 @@ dimwishlist:item=3007479950&perks=3250034553,3142289711,699525795,3751912585
 dimwishlist:item=3007479950&perks=1482024992,3142289711,699525795,3751912585
 
 
-// Lethophobia (pve)
+// Lethophobia (PvE)
 //notes:PvE-
 dimwishlist:item=3710082365&perks=2428997981,2610012052
 
 
-// Unexpected Resurgence (pve)
+// Unexpected Resurgence (PvE)
 //notes:PvE-
 dimwishlist:item=4005780578&perks=1820235745,1782407750
 dimwishlist:item=4005780578&perks=1820235745,3708227201
@@ -150,7 +257,7 @@ dimwishlist:item=4005780578&perks=951095735,2173046394
 dimwishlist:item=4005780578&perks=2779035018,2173046394
 
 
-// Appetence (pve)
+// Appetence (PvE)
 //notes:PvE-
 dimwishlist:item=4153087276&perks=3643424744,557221067
 dimwishlist:item=4153087276&perks=3643424744,4049631843
@@ -158,7 +265,7 @@ dimwishlist:item=4153087276&perks=3643424744,124408337
 dimwishlist:item=4153087276&perks=3828510309,124408337
 
 
-// Incisor (pve)
+// Incisor (PvE)
 //notes:PvE-
 dimwishlist:item=4248997900&perks=1820235745,557221067
 dimwishlist:item=4248997900&perks=1820235745,831391274
@@ -170,7 +277,7 @@ dimwishlist:item=655712834&perks=776531651,2048641572
 
 
 // The Title (PvE)
-//notes: Gyrfalcon's tags:PvE
+//notes: Gyrfalcon's
 dimwishlist:item=655712834&perks=776531651,3708227201
 dimwishlist:item=655712834&perks=776531651,3324494224
 
