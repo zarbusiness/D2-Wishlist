@@ -227,6 +227,23 @@ dimwishlist:item=2763843898&perks=3824105627,3891536761
 dimwishlist:item=2763843898&perks=3700496672,3891536761
 dimwishlist:item=2763843898&perks=3038247973,3891536761
 dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3824105627,4049631843
+
+// Midnight Coup (PvP)
+//notes:PvP-
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,2387244414
+
+// Midnight Coup (PvE)
+//notes:PvE-
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=3824105627,4104185692
+dimwishlist:item=2499720827&perks=3824105627,4049631843
+
+// Midnight Coup (PvP)
+//notes:PvP-
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,2387244414
 
 // Luna's Howl (PvE)
 //notes:PvE-
