@@ -1,5 +1,9 @@
 title: zarbusiness wishlist
 
+// Stoicism
+//notes:PvE-
+dimwishlist:item=266021826&perks=1476923953,1476923955
+
 // Uzume RR4 (PvE)
 //notes:PvE-
 dimwishlist:item=42874240&perks=2284787283,1546637391
