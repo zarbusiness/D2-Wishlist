@@ -1,5 +1,14 @@
 title: zarbusiness wishlist
 
+// Ergo Sum (PvE)
+//notes:PvE-
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730
+
+// Ergo Sum (PvE)
+//notes:PvE-
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634
+
 // Uzume RR4 (PvE)
 //notes:PvE-
 dimwishlist:item=42874240&perks=2284787283,1546637391
