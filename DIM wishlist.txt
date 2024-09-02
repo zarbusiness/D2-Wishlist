@@ -1,5 +1,10 @@
 title: zarbusiness wishlist
 
+// The Riposte (PvE)
+//notes:PvE-
+dimwishlist:item=3754408118&perks=776531651,2048641572
+dimwishlist:item=3754408118&perks=776531651,2109543898
+
 // Fortunate Star (PvE)
 //notes:PvE-
 dimwishlist:item=2326578623&perks=201365942,2048641572
