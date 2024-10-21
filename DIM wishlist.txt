@@ -1,5 +1,31 @@
 title: zarbusiness wishlist
 
+// VS Gravitic Arrest (PvP)
+//notes:PvP-
+dimwishlist:item=93061497&perks=3250034553,2969185026,1645158859,1194056669
+dimwishlist:item=93061497&perks=3250034553,2969185026,3938834702,1194056669
+
+// VS Gravitic Arrest (PvE)
+//notes:PvE-
+dimwishlist:item=93061497&perks=1687452232,3523296417,2396489472
+
+// VS Chill Inhibitor (PvE)
+//notes:PvE-
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3751912585,3078487919
+
+// VS Velocity Baton (PvE)
+//notes:PvE-
+dimwishlist:item=1762785663&perks=776531651,243981275
+dimwishlist:item=1762785663&perks=3108830275,243981275
+dimwishlist:item=1762785663&perks=3523296417,243981275
+
+// VS Pyroelectric Propellant (PvE)
+//notes:PvE-
+dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=243981275,3966416502
+dimwishlist:item=4232480042&perks=880644845,3966416502
+
 // Omniscient Eye (PvE)
 //notes:PvE-
 dimwishlist:item=147444292&perks=106909392,3987942396,555281244
