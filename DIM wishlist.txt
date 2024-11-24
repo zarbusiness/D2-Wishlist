@@ -1308,6 +1308,10 @@ dimwishlist:item=2969415423&perks=3161816588,47981717
 dimwishlist:item=2969415423&perks=588594999,699525795
 dimwishlist:item=2969415423&perks=588594999,47981717
 
+// Multimach CCX (PvE)
+//notes:PvE-
+dimwishlist:item=3211624072&perks=243981275,3891536761
+
 // Multimach CCX (PvP)
 //notes:PvP-
 dimwishlist:item=3211624072&perks=3250034553,3142289711,1359896290,591790007
