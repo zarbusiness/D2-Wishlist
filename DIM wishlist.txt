@@ -4138,6 +4138,23 @@ dimwishlist:item=1481892490&perks=,1583705720,4049631843
 dimwishlist:item=1481892490&perks=,3643424744,4049631843
 dimwishlist:item=1481892490&perks=,2450788523,3108830275
 dimwishlist:item=1481892490&perks=,3643424744,3108830275
+dimwishlist:item=4077588826&perks=3038247973,3218042543
+
+// The Palindrome (PvE)
+//notes:PvE-
+dimwishlist:item=2876244791&perks=3038247973,3218042543
+
+// The Palindrome (Adept) (PvP)
+//notes:PvP-
+dimwishlist:item=1481892490&perks=3250034553,1561002382,2450788523,2846385770
+dimwishlist:item=4077588826&perks=3250034553,3142289711,3511092054,47981717
+dimwishlist:item=4077588826&perks=3250034553,3142289711,1194056669,47981717
+
+// The Palindrome (PvP)
+//notes:PvP-
+dimwishlist:item=432476743&perks=1392496348,1561002382,706527188,2846385770
+dimwishlist:item=2876244791&perks=3250034553,3142289711,3511092054,47981717
+dimwishlist:item=2876244791&perks=3250034553,3142289711,1194056669,47981717
 
 // Whispering Slab (PvE)
 //notes:PvE-
@@ -6952,14 +6969,6 @@ dimwishlist:item=2708806099&perks=,1428297954,699525795
 // Hung Jury SR4 (Adept) (PvP)
 //notes:PvP-
 dimwishlist:item=681067419&perks=,588594999,3038247973
-
-// The Palindrome (Adept) (PvP)
-//notes:PvP-
-dimwishlist:item=1481892490&perks=3250034553,1561002382,2450788523,2846385770
-
-// The Palindrome (PvP)
-//notes:PvP-
-dimwishlist:item=432476743&perks=1392496348,1561002382,706527188,2846385770
 
 // Riiswalker (PvP)
 //notes:PvP-
