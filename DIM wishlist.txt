@@ -919,12 +919,19 @@ dimwishlist:item=3250744600&perks=106909392,1354429876,1546637391
 
 // Aisha's Care (Adept) (PvP)
 //notes:PvP-
-dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,460017080
-dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,588594999
+dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,3047969693
 
 // Aisha's Care (Adept) (PvE)
 //notes:PvE-
 dimwishlist:item=3332125295&perks=3619207468,831391274
+
+// Aisha's Care (PvP)
+//notes:PvP-
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,3047969693
+
+// Aisha's Care (PvE)
+//notes:PvE-
+dimwishlist:item=3969379530&perks=3619207468,831391274
 
 // Lethal Abundance (PvE)
 //notes:PvE-
@@ -985,15 +992,6 @@ dimwishlist:item=3962575203&perks=201365942,4104185692
 dimwishlist:item=3962575203&perks=201365942,2610012052
 dimwishlist:item=3962575203&perks=201365942,3365897133
 dimwishlist:item=3962575203&perks=3700496672,3365897133
-
-// Aisha's Care (PvP)
-//notes:PvP-
-dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,460017080
-dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,588594999
-
-// Aisha's Care (PvE)
-//notes:PvE-
-dimwishlist:item=3969379530&perks=3619207468,831391274
 
 // Better Devils (PvE)
 //notes:PvE-
